@@ -124,7 +124,7 @@ export default function App() {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        to: "ExponentPushToken[q4Sn7cPImxwAnEDwStEnFG]",
+        to: "ExponentPushToken[W6UDhlPj10c4RoRxvg_lUo]",
         title: "Test - sent from a device!",
         body: "This is a test!",
       }),
